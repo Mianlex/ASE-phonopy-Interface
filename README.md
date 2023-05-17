@@ -7,4 +7,4 @@ You will need to install the ASE and phonopy package first.
 
 Run the code block in ASE_phonopy_Example.ipynb and you will get the results.
 
-The ensemble code in script EMT_QHA.py.
+The ensemble code in script EMT_QHA.py, so that you are able to run QHA in one script and run a lot of tests. 
